@@ -42,8 +42,7 @@ class SpeckleDataBridge(Base):
 if __name__ == '__main__':
 
     from compas.datastructures import Mesh
-    from compas_speckle import SpeckleDataBridge
-
+s
     from specklepy.api import operations
     from specklepy.api.client import SpeckleClient
     from specklepy.api.credentials import get_default_account
