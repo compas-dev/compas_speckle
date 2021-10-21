@@ -5,6 +5,7 @@ import contextlib
 import glob
 import os
 import sys
+import tempfile
 from shutil import rmtree
 
 from invoke import Exit
