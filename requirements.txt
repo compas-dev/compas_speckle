@@ -1,0 +1,2 @@
+compas>=1.8
+specklepy
